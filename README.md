@@ -6,8 +6,6 @@ Fork of [Alamofire](https://github.com/Alamofire/Alamofire).
 * Wrap public functions in `struct Alamofire`
 * Rename all the classes/protocols to avoid name conflicts.
 
-## Installation
+## Note
 
-
-	pod 'Alamofire', :git => 'https://github.com/fxxing/Alamofire.git'
-
+It cannot be installed by cocoapods.
