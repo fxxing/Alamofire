@@ -9,5 +9,5 @@ Fork of [Alamofire](https://github.com/Alamofire/Alamofire).
 ## Installation
 
 
-	pod 'AFNetworking', :git => 'https://github.com/fxxing/Alamofire.git'
+	pod 'Alamofire', :git => 'https://github.com/fxxing/Alamofire.git'
 
